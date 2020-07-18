@@ -1,0 +1,10 @@
+/* .container{
+    background: url(../images/ghanian-image.jpg);
+    height: 100vh;
+} */
+
+#container-one{
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url("https://png-library.net/images/ghana-clipart-ghana-flag-619608-4698911.png") no-repeat 50% 50%;
+    background-size: cover;
+    height: 100vh;
+}
