@@ -4,7 +4,7 @@
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
-* Created my my project folder using terminals
+* Created my project folder using terminals
 * created my git-hub account and clone it.
 * Git clone https://github.com/AokoMercyline/Ghana-Akan-Names.git
 * Started coding my project on Visual studio Code
@@ -13,8 +13,9 @@
 ## Known Bugs
 * None so far and incase of any,share it with me.
 ## Technologies Used
-* Html
+* HTML
 * CSS
+* Bootstrap
 * Javascript
 ## Support and contact details
 Incase of any issue, any comment,please do not hesitate,reach me here.
