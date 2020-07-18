@@ -9,7 +9,7 @@ Setup instructions
 * Commiting my work and push them to git hub
 * 
 ## Known Bugs
-* None so far and incase of any,share it with me.
+* None so far and incase of any,share it out with me.
 ## BDD
 
 ## Technologies Used
