@@ -8,41 +8,39 @@
     <title>Ghana Akan Name Birthday Generator</title>
 </head>
 <body>
-    <div class="container" id="container-one">
-        <div class="row">
-            <div class="col-md-4">
-                <h1>Ghana Akan Birthday<small>Name Generator</small></h1>
+    <div class="container-fluid" id="container-one">
+        <div class="header-title">
+            <h2 class="text-center text-white">Akan Names</h2>
+        </div>
+        <div class="row pt-1">
+            <div class="col-md-6">
+                <h1 class="text-warning">Ghana Akan Birthday <br><small class="ml-5">Name Generator</small></h1>
             <div class="row" id="row1">
-                <div class="column1">Would you like to find out your Akan name look no further;<br>enter your information on the form below to generate your Akan name!
+                <div class="text-white">Would you like to find out your Akan name look no further;<br>enter your information on the form below to generate your Akan name!
                 </div>
             </div>
             </div>
-            <div class="col-md-8">
-                <form id="frm1" action="/action_page.php">
+            <div class="col-md-6">
+                <form id="frm1" action="">
                     <div class="form-group">
-                        <label for="day">Day</label>
-                        <input type="number" class="form-control" placeholder="Day">
+                        <label class="text-white" for="date">Date</label>
+                        <input type="date" name="date" class="form-control" id="date">
                     </div>
                     <div class="form-group">
-                        <label for="month">month</label>
-                        <input type="number" class="form-control" placeholder="Month of Birth">
-                    </div>
-                    <div class="form-group">
-                        <label for="year">year</label>
-                        <input type="number" class="form-control" placeholder="Year">
-                    </div>
-                    <div class="form-group">
-                        <label for="gender">Genders</label>
-                        <select class="form-control" id="gender">
+                        <label class="text-white" for="gender">Genders</label>
+                        <select class="form-control select-input" id="genders">
                             <option value="male">Male</option>
                             <option value="female">Female</option>
                       </select>
                     </div>            
-                    <input class="btn btn-outline-success" type="button" onclick="myFunction()" value="Submit">
+                    <button class="btn btn-success" onclick="myFunction()">Submit</button>
+                    <div class="results-custom text-center p-3" id="result"></div>
+                    <!-- <input class="btn btn-outline-success" type="button" onclick="myFunction()" value="Submit"> -->
                 </form>
             </div>
         </div>
+        <p class="copy text-white">Copyright &copy; | Mercyline</p>
         
-    
+    <script src="js/styles.js"></script>
 </body>
 </html>
