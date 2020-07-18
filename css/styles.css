@@ -6,7 +6,7 @@
 #container-one{
     background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://png-library.net/images/ghana-clipart-ghana-flag-619608-4698911.png") no-repeat 50% 50%;
     background-size: cover;
-    height: 100vh;
+    height: 150vh;
 }
 
 
@@ -21,4 +21,7 @@
 .copy{
     text-align: center;
     padding-top: 5%;
+}
+.row {
+    padding-left: 10px;
 }
