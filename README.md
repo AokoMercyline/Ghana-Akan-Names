@@ -18,7 +18,7 @@ Setup instructions
 * Bootstrap
 * Javascript
 ## Support and contact details
-Incase of any issue, any comment,please do not hesitate,reach me here.
+Incase of any issue, any comment,please share it with me here.
 * Phone:0708434156
 * Email:aokomercyline34@gmail.com
 Find me too on:
