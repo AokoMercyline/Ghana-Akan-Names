@@ -1,9 +1,7 @@
 # Ghana-Akan-Names
 #### This projects takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs. , 17,July 2020
 #### By **Aoko Mercyline**
-## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
-## Setup/Installation Requirements
+Setup instructions
 * Created my project folder using terminals
 * created my git-hub account and clone it.
 * Git clone https://github.com/AokoMercyline/Ghana-Akan-Names.git
@@ -12,6 +10,8 @@
 * 
 ## Known Bugs
 * None so far and incase of any,share it with me.
+## BDD
+
 ## Technologies Used
 * HTML
 * CSS
