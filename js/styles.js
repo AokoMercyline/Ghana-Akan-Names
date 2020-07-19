@@ -18,4 +18,8 @@ function myFunction() {
     else {
         alert( " For Her Born On " + " Undifined Date " + ',' + " Your Akan Name Is "  + " Undifined");
     }
+    if(date=='' && month =='' && year =='');{
+        alert('fill in all the requirements to proceed')
+        return 0;
+    }
 }
