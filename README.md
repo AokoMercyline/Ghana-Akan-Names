@@ -7,7 +7,6 @@ Setup instructions
 * Git clone https://github.com/AokoMercyline/Ghana-Akan-Names.git
 * Started coding my project on Visual studio Code
 * Commiting my work and push them to git hub
-* 
 ## Known Bugs
 * None so far and incase of any,share it out with me.
 ## BDD
