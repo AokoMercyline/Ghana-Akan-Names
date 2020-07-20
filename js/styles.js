@@ -19,7 +19,7 @@ function myFunction() {
         alert( " For Her Born On " + " Undifined Date " + ',' + " Your Akan Name Is "  + " Undifined");
     }
     if(date=='' && month =='' && year =='');{
-        alert('fill in all the requirements to proceed')
+        alert(' Please,fill in all the requirements to proceed on.')
         return 0;
     }
 }
