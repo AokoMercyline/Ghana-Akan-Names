@@ -1,5 +1,5 @@
 # Ghana-Akan-Names
-#### This projects takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs. , 17,July 2020
+#### This projects takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs.17,July 2020
 #### By **Aoko Mercyline**
 Setup instructions
 * Created my project folder using terminals
