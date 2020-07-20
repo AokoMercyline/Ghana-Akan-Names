@@ -10,7 +10,7 @@ Setup instructions
 ## Known Bugs
 * None so far and incase of any,share it out with me.
 ## BDD
-
+For any person who is interested in using or accesses the codes from this website or incase of anything you would like to know more about the website,please contact me through the contacts below for more information.I will appreciate the contribution.
 ## Technologies Used
 * HTML
 * CSS
